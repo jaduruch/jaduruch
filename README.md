@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jana_ruch
 - 👀 I’m interested in Hardware, Linux
-- 🌱 I’m currently learning to Code in C
+- 🌱 I’m currently coding with Arduino/ESP32
 
 <!---
 jaduruch/jaduruch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
