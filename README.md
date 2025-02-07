@@ -1,6 +1,6 @@
 # Hi there, I'm Jana Ruch! 👋
 
-I'm a passionate software developer with a keen interest in open-source projects and cutting-edge technologies. I love exploring new tools and frameworks to build efficient and scalable applications.
+I'm a apprentice from Switzerland, working on an online calculator for electronics
 
 ## 🚀 Skills
 
