@@ -13,7 +13,7 @@ I'm a apprentice from Switzerland, working on an online calculator for electroni
 ## 📫 How to reach me
 
 - **Email:** [jaduruch@gmail.com](mailto:jaduruch@gmail.com)
-- **Instagramm:** [instagram.com/jana_ruch_](https://www.instagram.com/jana_ruch_/)
+- **Instagram:** [instagram.com/jana_ruch_](https://www.instagram.com/jana_ruch_/)
 
 ## 🌱 What I'm currently learning
 
