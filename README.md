@@ -1,47 +1,48 @@
-# Hi there, I'm Jana Ruch! 👋
-
-🎓 **Student from Switzerland**  
-🔬 Currently working on an **online calculator for physics**
-
+# Hi there, I'm Jana Ruch 👋
+ 
+I'm a 20 year old physics student at ETH Zürich. 🎓
+ 
+I like connecting physics, hardware, and software. 🧲 🔧 🖥
+ 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-283593?style=flat&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+ 
 ---
-
-## 🚀 Skills
-
-- **Languages:** ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-blue?logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-- **Markup:** ![LaTeX](https://img.shields.io/badge/-LaTeX-green?logo=latex&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
-- **Design Tools:** PCB Design, 3D Modeling
-
+ 
+## Current Projects ✨️
+ 
+### 🔗 [calcPhysics](https://calcphysics.com)
+ 
+A Website to calculate and simulate physics.
+ 
+### ⚛️ [Qubit Simulator](https://github.com/jaduruch/qubit-simulation)
+ 
+An embedded project that controls a physical Bloch sphere to help visualize qubit states and gates.
+ 
 ---
+ 
+## Skills 🧠
+ 
+- 💻 **Code:** C++, C, HTML & CSS
+- 🔌 **Hardware:** microcontrollers, PCB design, 3D printing
+- 📐 **Tools:** LaTeX
 
-## 🌟 Current Projects
-
-🔗 [**calcPhysic**](https://calcphysic.com) - A platform for physics calculations.  
-🔗 [**Q-bit Simulator**](https://github.com/jaduruch/q-bit-simulator) - Simulating quantum bits for educational purposes.
-
+ ---
+ 
+## What I'm Currently Learning 🖊
+ 
+- 👩‍💻 C++
+- 📚 Maths and physics
+ 
 ---
-
-## 📈 GitHub Stats
-
-<!--![Jaduruch's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaduruch&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaduruch&layout=compact&theme=radical)  -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaduruch&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
----
-
-## 📫 How to Reach Me
-
-[![Email](https://img.shields.io/badge/Email-jaduruch%40gmail.com-red?style=flat-square&logo=gmail)](mailto:jaduruch@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%40jana__ruch__-purple?style=flat-square&logo=instagram)](https://www.instagram.com/jana_ruch_/)
-
----
-
-## 🌱 What I'm Currently Learning
-
-![Angular](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white) - Framework used for calcPhysic.
-
----
-
-*This README was designed by Copilot.*
+ 
+## How to Reach Me 📲
+ 
+- 📬 [Email](mailto:jaduruch@gmail.com)
+- 📸 [Instagram](https://www.instagram.com/jana_ruch_/)
 
 <!---
 jaduruch/jaduruch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
